@@ -1,0 +1,12 @@
+{
+  "createdWith": "2.0.0-alpha.3",
+  "generators": {
+    "component": "ignite-basic-generators",
+    "container": "ignite-basic-generators",
+    "listview": "ignite-basic-generators",
+    "redux": "ignite-basic-generators",
+    "saga": "ignite-basic-generators",
+    "screen": "ignite-basic-generators"
+  },
+  "examples": "classic"
+}
