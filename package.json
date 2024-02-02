@@ -38,7 +38,7 @@
     "react-native-maps": "0.13.0",
     "react-native-router-flux": "^3.37.0",
     "react-native-vector-icons": "^4.0.0",
-    "react-navigation": "^1.0.0-beta.3",
+    "react-navigation": "^5.0.0",
     "react-redux": "^5.0.2",
     "redux": "^3.6.0",
     "redux-logger": "^2.7.4",
