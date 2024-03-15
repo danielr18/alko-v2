@@ -23,7 +23,7 @@
     "flow": "flow --show-all-errors"
   },
   "dependencies": {
-    "apisauce": "^0.8.0",
+    "apisauce": "^1.1.5",
     "format-json": "^1.0.3",
     "lodash": "^4.17.2",
     "querystringify": "0.0.4",
